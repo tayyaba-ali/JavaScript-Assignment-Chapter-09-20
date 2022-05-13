@@ -21,11 +21,11 @@
 // var bool = [true, false, false, true];
 // document.write("Boolean Array: " + bool + "<br/>" + "<br/>" + "<br/>");
 
-// // 6. Declare and initialize a mixed array. 
+// 6. Declare and initialize a mixed array. 
 // var data = ["Tayyaba", "Ali", 23, true];
 // document.write("Mixed Array: " + data + "<br/>" + "<br/>" + "<br/>");
 
-// // 7. Declare and Initialize an array and store available education qualifications in Pakistan (e.g. SSC, HSC, BCS, BS, BCOM, MS, M. Phil., PhD).
+// 7. Declare and Initialize an array and store available education qualifications in Pakistan (e.g. SSC, HSC, BCS, BS, BCOM, MS, M. Phil., PhD).
 // var qualifications = ["SSC", "HSC", "BCS", "BS", "BCOM", "MS", "M.Phil", "PHD"];
 // var count = 0;
 // var i = 0;
