@@ -92,11 +92,11 @@
 // var userInput=prompt('Enter the item name');
 // for(var i=0;i<A.length;i++){
 // if(userInput === A[i]){
-//     alert(userInput+' is available at index '+i+' in our bakery')
+//     alert(userInput+' is available at index +i+ 'in our bakery')
 //      break;
 // }
 // else{
-//     alert('We are sorry .'+A[i]+' is not available in our bakery')
+//     alert('We are sorry .'+userInput+' is not available in our bakery')
   
 // }
 // }
