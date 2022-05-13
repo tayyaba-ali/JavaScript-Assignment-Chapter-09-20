@@ -92,7 +92,7 @@
 // var userInput=prompt('Enter the item name');
 // for(var i=0;i<A.length;i++){
 // if(userInput === A[i]){
-//     alert(A[i]+' is available at index '+i+' in our bakery')
+//     alert(userInput+' is available at index '+i+' in our bakery')
 //      break;
 // }
 // else{
