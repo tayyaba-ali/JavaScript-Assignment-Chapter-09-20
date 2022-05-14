@@ -46,7 +46,7 @@
 // document.write('<br>')
 // for(var j=0;j<fruits.length;j++){
 //     document.write('Element at index '+j + ' is '+fruits[j]+'<br>');}
-  
+
 
 
 
@@ -100,17 +100,21 @@
 // Write a program to enable “search by user input” in an array.
 // After searching, prompt the user whether the given item is found in the list or not. Example:
 
-// var A=['cake','apple pie','cookie','chips','patties'];
-// var userInput=prompt('Enter the item name');
-// for(var i=0;i<A.length;i++){
-// if(userInput === A[i]){
-//     alert(userInput+' is available at index +i+ 'in our bakery')
-//      break;
+// var A = ['cake', 'apple pie', 'cookie', 'chips', 'patties'];
+// var userInput = prompt('Enter the item name');
+// userInput = userInput.toLowerCase();
+// var check = false;
+// for (var i = 0; i < A.length; i++) {
+//     if (userInput === A[i]) {
+//         document.write(A[i] + ' is available at index ' + i + ' in our bakery')
+//         check = true;
+
+//     }
 // }
-// else{
-//     alert('We are sorry .'+userInput+' is not available in our bakery')
-  
-// }
+
+// if (check === false) {
+//     document.write('We are sorry .' + userInput + ' is not available in our bakery')
+
 // }
 
 // 8. Write a program to identify the largest number in the given array.
